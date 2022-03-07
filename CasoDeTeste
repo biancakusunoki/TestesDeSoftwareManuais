@@ -1,0 +1,22 @@
+Realizado como forma de comprovação de aptidão para uma plataforma que oferece serviços de testing. 
+Nome da empresa será trocado para 'Exemplo1'
+
+MODALIDADE: CASO DE TESTE COM ROTEIRO
+
+TÍTULO 
+Teste com roteiro - Visualização e edição do carrinho de compras
+
+PASSOS EXTRAS REALIZADOS
+Adicionei um produto a mais para confirmar se estava tudo certo com o processo de adicionar itens no carrinho e alterar suas unidades.
+
+RESULTADO ENCONTRADO
+O teste foi realizado no aplicativo da ''Exemplo1''. Conforme o esperado, o produto foi pesquisado sem erros, adicionado diretamente ao carrinho. Foi possível alterar suas unidades dentro deste e retirá-los após. Sem qualquer mensagem de erro.
+
+OBSERVAÇÕES ADICIONAIS
+Os produtos adicionados foram dois livros. 
+
+EVIDÊNCIAS
+Fora adicionado o anexo de um video.
+
+
+Observações: Hoje em dia, realizaria o teste de forma mais detalhada para que ficasse mais claro o resultado que fora encontrado.
