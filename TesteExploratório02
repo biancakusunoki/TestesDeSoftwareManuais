@@ -1,0 +1,38 @@
+Esse teste foi realizado por conta própria, de modo a adquirir experiência na testagem de software, para uma empresa que fornece serviços de software. 
+A falha estava no aplicativo, sendo ela funcional e de interface. 
+Assim como no caso do 'TesteExploratório01', relatei juntas duas falhas por elas se complementarem. 
+Essa falha foi enviada pelo próprio aplicativo, na aba de contatos, já que não havia forma de adquirir o e-mail da empresa. 
+
+Importante mencionar que o tipo e modelo do aparelho foram descritos no corpo da mensagem, mas o removerei deste documento.
+
+Nome da empresa será substituída por ''Empresa01''.
+
+ASSUNTO 
+Falha encontrada no aplicativo - Funcional e Impeditiva
+
+MENSAGEM
+
+  Boa noite, Empresa01. Enquanto procurava por novos projetos, me deparei com uma falha no aplicativo.
+
+  Resumo: 
+  Seção ''Meus Projetos'' e ''Projetos Disponíveis'' do aplicativo da Empresa01 cortam o texto pela metade e não possibilitam que a tela seja recarregada ao ''arrastar para cima'', como sugerido.
+  
+  Tipo de falha:
+  Falha de funcionalidade - Não é possível recarregar a tela ao arrastar para cima.
+  Falha de interface - Texto cortado pela metade.
+  
+  Passo a Passo:
+  1. Entrar no aplicativo
+  2. Clicar no botão ''Meus Projetos''
+  3. Ver que o texto na região inferior da tela é cortado pela metade 
+  4. Tentar recarregar a tela arrastando-a para cima.
+  5. Clicar no ícone de seta no canto superior esquerdo ao lado de ''Meus Projetos''
+  6. Clicar no botão ''Projetos Disponíveis''
+  7. Repetir os passos descritos nos números 3 e 4.
+ 
+   Adicionais: 
+   Internet Wi-Fi funcionando, aplicativo atualizado. Fora testado o ícone de sino no lado superior direito da tela e este funciona ao comando de recarregar a tela puxando-a para cima, comprovando ser uma falha nas seções mencionadas. Se necessário, posso fornecer vídeo comprobatório.
+   
+
+Observações: Fora escrito ''Se necessário, posso fornecer video comprobatório'', pois o aplicativo não permitia o envio de anexos. 
+Após alguns dias, a Empresa01 entrou em contato comigo por e-mail e o anexo fora enviado. 
