@@ -1,0 +1,36 @@
+Meu primeiro teste de software! :)
+
+Realização de Teste Exploratório como forma de comprovação de aptidão para uma plataforma que oferece serviços de testing. 
+Nome da empresa será trocado para 'Exemplo1'
+
+OCORRÊNCIA
+
+TIPO 
+impeditivo
+
+DESCRIÇÃO
+Ao entrar no aplicativo da loja Exemplo1 e tentar favoritar um produto, o botão do ''coração'' que representa o de Favorito se desmarca sozinho. Quando vamos conferir se este produto, mesmo desmarcando sozinho, foi acrescentado na aba ''Meus Favoritos'', vemos que esta não abre e mostra o erro ''Falha na Conexão'', mesmo com a internet Wi-Fi funcionando perfeitamente. 
+
+PRÉ-CONDIÇÃO
+Entrar no aplicativo e logar.
+
+PASSOS PARA REPRODUÇÃO
+1. Entrar no aplicativo
+2. Fazer login no aplicativo
+3. Procurar um produto na aba de buscas
+4. Clicar no produto
+5. Apertar no botão de coração acima do produto que representa o favorito.
+6. Clicar no botão de coração na parte inferior da tela para acessar ''meus favoritos''
+
+RESULTADO ESPERADO
+Adição de item aos ''Favoritos'' e Visualização da aba dos ''Meus Favoritos''
+
+INFORMAÇÕES ADICIONAIS
+Aplicativo instalado anteriormente, atualizado, conta antiga (Já havia comprado nela antes), com endereço completo, favoritos, já adicionados no passado e sem o erro de agora.
+
+EVIDÊNCIAS
+Um vídeo fora enviado. 
+
+Observações: As falhas foram colocadas juntas pois se complementavam. 
+Hoje em dia teria cuidado para escrever de forma mais clara (como no  passo de número 5, que eu substituiria com ''Apertar no ícone de botão de coração, acima do produto, que representa a função de favorito''.)
+Também cuidaria para usar mais a terceira pessoa, como no informações adicionais, eu mudaria: Aplicativo instalado anteriormente e devidamente atualizado. Conta antiga, endereço completo, com compras realizadas anteriormente. A função de 'favoritos' já havia sido utilizada no passado, sem a falha apresentada de agora.  
