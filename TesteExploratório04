@@ -1,0 +1,35 @@
+Esse teste foi realizado por conta própria, de modo a adquirir experiência na testagem de software, para uma empresa que fornece serviços de software. 
+A falha estava no site, sendo ela do tipo funcional.
+
+O nome da empresa será ocultado, substituirei por ''Empresa01''
+Serei direta ao ponto, fornecendo apenas os detalhes do reporte, ocultando as saudações :)
+
+Corpo da mensagem: 
+  
+   Título 
+   A ''Data de Nascimento'' não possui um limite de idade no campo ''ano'', permitindo cadastro de usuários que ainda virão a nascer.
+   
+   Resumo
+   Quando vamos mudar nossa data de aniversário, o ano pode ser alterado e salvo de forma que venha a exceder exageradamente o limite de idade. Com valores absurdos, as informações aceitam cadastro de quem ''ainda irá vir a nascer''. Também foi possível alterar e salvar o mesmo campo diversas vezes, com vários anos excedentes diferentes.
+  
+   Passo-a-Passo
+   1. Entrar no site ''www.empresa01.com.br''
+   2. Fazer login em sua conta
+   3. Clicar no ícone de ''três tracinhos'' no canto superior esquerdo da tela.
+   4. Clicar em ''Acesse sua conta''
+   5. Clicar novamente no ícone de ''três tracinhos''
+   6. Clicar em ''Seus dados''
+   7. Alterar apenas o ano da ''Data de Nascimento''
+   8. Rolar o site para baixo
+   9. Clicar em ''Salvar Informações''
+   
+   Adicionais
+   - Após o campo das informações ser salvo, tanto o site quanto o aplicativo dispõem a informação do ano na aba de ''Seus Dados''. Sendo assim, o sistema aceitou essa data como válida.
+   - Quando fui tentar comprar algo com o ano de nascimento sem um limite (ex.: coloquei que nasci no ano de 9999), me foi permitido.
+   
+   Conteúdo dos anexos:
+   Video 1: Mostro o procedimento passo-a-passo da mudança do ano, inclusive fazendo login novamente no site para conferimento da situação.
+   Video 2: Mostro que após salvar a data no site, o aplicativo também a considera e deixa disposta esse dado excedente.
+   
+   Observações: Os videos mostram que eu pude colocar livremente, várias vezes, diversas datas de nascimento absurdas, como eu ter nascido em 9999, 8888, entre outros. Essas datas eram atualizadas pelo sistema, aparecendo tanto no site quanto no aplicativo mobile, demonstrando ser um problema funcional e não apenas de interface.
+  
