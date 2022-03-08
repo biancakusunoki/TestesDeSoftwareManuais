@@ -1,0 +1,67 @@
+Este teste exploratório foi realizado por conta própria, de modo a adquirir experiência na testagem de software, para uma empresa americana que fornece serviços de software. 
+A falha estava no site, na área de ajuda, sendo ela de interface. 
+
+Enviei essa falha para o próprio site, na aba de 'Contact Support', já que não havia forma de adquirir o e-mail da empresa. 
+Neste site era permitido o envio de anexos, desta forma, enviei fotos e videos comprobatórios.
+Na questão dos comentários adicionais, onde disse estar logada e depois deslogada, foi devido ao eu estar cadastrada neste site para fornecer trabalho de QA testing. 
+
+O nome da empresa será substituido por ''Empresa01''.
+Alguns títulos serão omitidos para evitar expor a empresa. 
+  ex: What are the different ..... on Empresa01?''
+
+Esse documento terá primeiramente a versão original (não traduzida) em inglês americano, e no fim o traduzirei para português brasileiro.
+
+ DESCRIPTION
+  The images in the description of ''What are the different ...... on Empresa01?'' don't show up on Chrome and Safari navigators. It only shows a blank space. It happened in ''Help.empresa01.com'' site. Visual Bug Type.
+  
+  REPRODUCTION STEPS
+  1. Open the ''empresa01.com'' site.
+  2. Do the login.
+  3. Click in the interrogation icon ''(?)'' in the superior right of the screen. It will open the ''help.empresa01.com'' site. 
+  4. Scroll down till ''Browse FAQs''
+  5. Click in ''Open Category List''
+  6. Click in the Plus Icon to open ''Empresa01 Basic''
+  7. Scroll down and click in ''What are the different ..... on Empresa01?''
+  8. The visual bug type will be there on the description images. 
+  
+  Extra Step for Chrome: 
+  9. In the Chrome, click and hold for a little bit on the image. 
+  10. The navigator will show some options like ''open the image in a new guide''.
+  11. Try the ''open the image in a new guide'' option.
+  12. The new page will show an ''Acess Denied'' text and an url. (Screenshot attached)
+  
+  ADDITIONAL COMMENTS
+  The bug was tested on two navigators: Safari, logged in ; Then, Chrome, logged out. The test was made cnnected to a good Wi-Fi internet. 
+  
+ ----
+ 
+  DESCRIÇÃO
+  As imagens na descrição de ''Quais são os diferentes ...... em Empresa01?'' não aparecem nos navegadores do Chrome e do Safari. Apenas aparece um espaço em branco. Isso ocorreu no site ''Help.empresa01.com''. Bug de tipo visual. (é o bug de interface)
+  
+  PASSO DE REPRODUÇÃO
+   1. Abra o site ''empresa01.com''
+   2. Faça o login.
+   3. Clique no icone de interrogação ''(?)'' na parte superior direita da tela. Isso irá abrir o site ''help.empresa01.com''
+   4. Deslize para baixo até chegar em ''Browse FAQs''
+   5. Clique em ''Abrir lista de categoria''
+   6. Clique no icone de Mais para abrir ''Empresa01 Basic''
+   7. Deslize para baixo e clique em ''Quais são os diferentes .... em Empresa01?''
+   8. O bug de tipo visual estará aqui nas imagens das descrições.
+   
+   Passo extra para o Chrome:
+   9. No Chrome, clique e segure um pouco em cima da imagem. 
+   10. No navegador aparecera algumas opções como ''Abra a imagem em uma nova guia''.
+   11. Tente a opção ''Abra a imagem em uma nova guia''.
+   12. Essa nova página mostrará um texto escrito ''Acesso Negado'' e uma url (foto em anexo)
+   
+   Comentários adicionais
+   O bug foi testado em dois navegadores: Safari, logado ; e então, no Chrome, deslogada. O teste foi feito conectado em uma boa internet Wi-Fi. 
+   
+   ---- 
+   
+   A empresa01 entrou em contato comigo dias depois via e-mail agradecendo ao relato da falha, dizendo que arrumaram essa seção do site. 
+   
+   
+
+  
+  
